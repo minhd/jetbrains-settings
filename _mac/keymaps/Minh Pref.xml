@@ -1,0 +1,92 @@
+<keymap version="1" name="Minh Pref" parent="Mac OS X 10.5+">
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareJars" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.ShowDiff" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="FindNext" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="ParameterInfo" />
+  <action id="PreviousOccurence" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="RunJsbtTask">
+    <keyboard-shortcut first-keystroke="alt f11" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.UpdateProject" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
