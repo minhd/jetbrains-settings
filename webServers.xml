@@ -6,6 +6,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="ac403b48-67f7-4cd9-921f-b25320d82d5f" name="Registry Core" url="http://localhost">
