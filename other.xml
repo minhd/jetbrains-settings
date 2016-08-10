@@ -72,6 +72,10 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.3.1/bin/node" />
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="5.0.0" last-modified="1446157829000" />
     <node-interpreter path="/usr/local/Cellar/node/5.0.0/bin/node" version="5.0.0" last-modified="1446157829000" />
