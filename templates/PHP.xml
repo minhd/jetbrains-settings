@@ -1,6 +1,0 @@
-<templateSet group="PHP">
-  <template name="utest" value="/** @test **/&#10;public function it_should_$FUNCTION$() {&#10;    $this-&gt;assertTrue();&#10;}" description="unit test" toReformat="false" toShortenFQNames="true">
-    <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-</templateSet>
