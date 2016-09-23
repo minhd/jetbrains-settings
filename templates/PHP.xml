@@ -56,4 +56,9 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="ptest" value="/** @test **/&#10;public function it_should_$END$()&#10;{&#10;    $this-&gt;assertTrue(true);&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
