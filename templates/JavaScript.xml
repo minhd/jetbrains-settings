@@ -1,7 +1,0 @@
-<templateSet group="JavaScript">
-  <template name="iffe" value="(function(){&#10;    'use strict';&#10;&#10;    &#10;})();" description="Insert iffe enclosure" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
