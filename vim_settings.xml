@@ -15,11 +15,26 @@
         <mark key="^" line="8" column="318" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" timestamp="1496710965092">
-        <mark key="'" line="115" column="8" />
-        <mark key="[" line="116" column="26" />
-        <mark key="]" line="135" column="5" />
-        <mark key="." line="135" column="5" />
+      <file name="$USER_HOME$/dev/ands/registry/.env" timestamp="1496712476118">
+        <mark key="'" line="39" column="24" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" timestamp="1496713936470">
+        <mark key="'" line="90" column="8" />
+        <mark key="[" line="88" column="35" />
+        <mark key="]" line="89" column="135" />
+        <mark key="." line="89" column="135" />
+        <mark key="^" line="89" column="135" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" timestamp="1496713743007">
+        <mark key="'" line="29" column="71" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -33,7 +48,6 @@
       <jump line="101" column="16" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
       <jump line="102" column="12" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
       <jump line="103" column="8" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
-      <jump line="89" column="32" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
       <jump line="92" column="56" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
       <jump line="94" column="75" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
       <jump line="95" column="65" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
@@ -43,35 +57,62 @@
       <jump line="106" column="26" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
       <jump line="109" column="52" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
       <jump line="115" column="8" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/ands/registry/.env" />
+      <jump line="40" column="24" filename="$USER_HOME$/dev/ands/registry/.env" />
+      <jump line="41" column="56" filename="$USER_HOME$/dev/ands/registry/.env" />
+      <jump line="38" column="41" filename="$USER_HOME$/dev/ands/registry/.env" />
+      <jump line="39" column="24" filename="$USER_HOME$/dev/ands/registry/.env" />
+      <jump line="89" column="8" filename="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" />
+      <jump line="28" column="71" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVsYXRlZFsnb2dhciddKQo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>$swappedKey</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZChjb2xsZWN0KCRyZWxhdGVkWydvcmdhbmlzYXRpb25zJ11bJ2RvY3MnXSkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmaW5kIGFsbCByZWxhdGVkIG9yZ2FuaXNhdGlvbnMgdGhhdCBoYXMgdGhlIGV4YWN0IHNhbWUgbmFtZSBhbmQgZGV0ZXJtaW5lIGlmIHRoZXkgYXJlIGR1cGxpY2F0ZQo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>116</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkaWRRdWVyeSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$swappedKey</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text encoding="base64">XDwpXD4=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkaWRRdWVyeSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZHVwbGljYXRlcyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGQoJGlkUXVlcnkpO2RkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">JGlkUXVlcnkgPSBudWxsOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAkY2kgPSYgZ2V0X2luc3RhbmNlKCk7CiAgICAgICAgJGNpLT5sb2FkLT5saWJyYXJ5KCdzb2xyJyk7CgogICAgICAgaWYgKCRpZFF1ZXJ5ID09PSBudWxsKSB7CiAgICAgICAgICAgJGlkUXVlcnkgPSAkdGhpcy0+cm8tPmlkOwogICAgICAgfQoKICAgICAgICAkY2ktPnNvbHIKICAgICAgICAgICAgLT5pbml0KCkKICAgICAgICAgICAgLT5zZXRDb3JlKCdyZWxhdGlvbnMnKQogICAgICAgICAgICAtPnNldE9wdCgncm93cycsIDUpCiAgICAgICAgICAgIC0+c2V0T3B0KCdmcScsICIrZnJvbV9pZDooeyRpZFF1ZXJ5fSkiKTsKICAgICAgICBzd2l0Y2ggKCR0eXBlKSB7CiAgICAgICAgICAgIGNhc2UgImRhdGEiOgogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczpjb2xsZWN0aW9uJyk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAicHJvZ3JhbXMiOgogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczphY3Rpdml0eScpOwogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b190eXBlOnByb2dyYW0nKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJncmFudHNfcHJvamVjdHMiOgogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczphY3Rpdml0eScpOwogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJy10b190eXBlOnByb2dyYW0nKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJzZXJ2aWNlcyI6CiAgICAgICAgICAgICAgICAkY2ktPnNvbHItPnNldE9wdCgnZnEnLCAnK3RvX2NsYXNzOnNlcnZpY2UnKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJyZXNlYXJjaGVycyI6CiAgICAgICAgICAgICAgICAkY2ktPnNvbHItPnNldE9wdCgnZnEnLCAnK3RvX2NsYXNzOnBhcnR5IE9SIHJlbGF0aW9uX29yaWdpbjpJREVOVElGSUVSJyk7CiAgICAgICAgICAgICAgICAkY2ktPnNvbHItPnNldE9wdCgnZnEnLCAnLXRvX3R5cGU6Z3JvdXAnKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJvcmdhbmlzYXRpb25zIjoKICAgICAgICAgICAgICAgICRjaS0+c29sci0+c2V0T3B0KCdmcScsICcrdG9fY2xhc3M6cGFydHknKTsKICAgICAgICAgICAgICAgICRjaS0+c29sci0+c2V0T3B0KCdmcScsICcrdG9fdHlwZTpncm91cCcpOwogICAgICAgICAgICAgICAgLy9leGNsdWRlIHJlbGF0aW9uIHdpdGggaWRlbnRpZmllciAoYmVjYXVzZSB0aGV5IGZhbGwgaW50byByZXNlYXJjaGVycyBjYXRlZ29yeSkKICAgICAgICAgICAgICAgICRjaS0+c29sci0+c2V0T3B0KCdmcScsICctcmVsYXRpb25faWRlbnRpZmllcl9pZGVudGlmaWVyOionKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJwdWJsaWNhdGlvbnMiOgogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczpwdWJsaWNhdGlvbicpOwogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ3Jvd3MnLDk5OSk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAid2Vic2l0ZXMiOgogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczp3ZWJzaXRlJyk7CiAgICAgICAgICAgICAgICAkY2ktPnNvbHItPnNldE9wdCgncm93cycsOTk5KTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgLy8gcmV0dXJucyAwIGZvciBhbnkgb3RoZXIgY2FzZQogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczpVTktOT1dOJyk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICB9CgogICAgICAgICRzb2xyUmVzdWx0ID0gJGNpLT5zb2xyLT5leGVjdXRlU2VhcmNoKHRydWUpOwoKICAgICAgICAvLyBkZWZhdWx0IHJlc3VsdAogICAgICAgICRyZXN1bHQgPSBhcnJheSgKICAgICAgICAgICAgJ2NvdW50JyA9PiAwLAogICAgICAgICAgICAnZG9jcycgPT4gW10KICAgICAgICApOwoKICAgICAgICBpZiAoJHNvbHJSZXN1bHQgJiYgYXJyYXlfa2V5X2V4aXN0cygncmVzcG9uc2UnLCAkc29sclJlc3VsdCkgJiYgJHNvbHJSZXN1bHRbJ3Jlc3BvbnNlJ11bJ251bUZvdW5kJ10gPiAwKSB7CiAgICAgICAgICAgICRyZXN1bHRbJ2NvdW50J10gPSAkc29sclJlc3VsdFsncmVzcG9uc2UnXVsnbnVtRm91bmQnXTsKICAgICAgICAgICAgZm9yZWFjaCAoJHNvbHJSZXN1bHRbJ3Jlc3BvbnNlJ11bJ2RvY3MnXSBhcyAkZG9jKSB7CiAgICAgICAgICAgICAgICAkZGF0YSA9ICRkb2M7CiAgICAgICAgICAgICAgICAkcmVzdWx0Wydkb2NzJ11bXSA9ICRkYXRhOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHJlc3VsdDs=</text>
+      </register>
+      <register name="6" type="8">
+        <text>services
+services</text>
+      </register>
+      <register name="7" type="8">
+        <text>organisations
+organisations</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gZ2V0IG15IGR1cGxpY2F0ZXMgYW5kIHNlYXJjaCBmb3IgdGhlaXIgcmVsYXRpb25zaGlwcyB0b28KICAgICAgICAkcmVjb3JkID0gXEFORFNcUmVwb3NpdG9yeVxSZWdpc3RyeU9iamVjdHNSZXBvc2l0b3J5OjpnZXRSZWNvcmRCeUlEKCR0aGlzLT5yby0+aWQpOwogICAgICAgICRkdXBsaWNhdGVzID0gJHJlY29yZC0+Z2V0RHVwbGljYXRlUmVjb3JkcygpLT5wbHVjaygncmVnaXN0cnlfb2JqZWN0X2lkJyktPnRvQXJyYXkoKTsKICAgICAgICAkaWRzID0gWyAkdGhpcy0+cm8tPmlkIF07CiAgICAgICAgaWYgKGNvdW50KCRkdXBsaWNhdGVzKSA+IDApIHsKICAgICAgICAgICAgJGlkcyA9IGFycmF5X21lcmdlKCRpZHMsICRkdXBsaWNhdGVzKTsKICAgICAgICB9CiAgICAgICAgJGlkUXVlcnkgPSBpbXBsb2RlKCcgT1IgJywgJGlkcyk7</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -79,14 +120,21 @@
         <entry>}</entry>
         <entry>$</entry>
         <entry>;</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz4xMDU=</entry>
         <entry>116</entry>
+        <entry>90</entry>
+        <entry encoding="base64">JzwsJz4xMDQ=</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
