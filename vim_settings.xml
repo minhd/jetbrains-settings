@@ -1,0 +1,61 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/ands/registry/applications/portal/registry_object/controllers/registry_object.php" timestamp="1496708474904">
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/css/swatch-ands-green.css" timestamp="1496706961445">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="8" column="318" />
+        <mark key="." line="12" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="8" column="316" filename="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/css/swatch-ands-green.css" />
+      <jump line="88" column="0" filename="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/css/swatch-ands-green.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/css/swatch-ands-green.css" />
+      <jump line="1229" column="6" filename="$USER_HOME$/dev/ands/registry/applications/portal/registry_object/controllers/registry_object.php" />
+      <jump line="447" column="53" filename="$USER_HOME$/dev/ands/registry/applications/portal/registry_object/controllers/registry_object.php" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVsYXRlZFsnb2dhciddKQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVsYXRlZFsnb2dhciddKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZChjb2xsZWN0KCRyZWxhdGVkWydvcmdhbmlzYXRpb25zJ11bJ2RvY3MnXSkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBmaW5kIGFsbCByZWxhdGVkIG9yZ2FuaXNhdGlvbnMgdGhhdCBoYXMgdGhlIGV4YWN0IHNhbWUgbmFtZSBhbmQgZGV0ZXJtaW5lIGlmIHRoZXkgYXJlIGR1cGxpY2F0ZQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>// duplicate relationships are the ones that have exact same relation/to_title</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
