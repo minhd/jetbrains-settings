@@ -19,12 +19,18 @@
         <mark key="]" line="0" column="311" />
         <mark key="." line="0" column="311" />
       </file>
+      <file name="/Dummy.txt" timestamp="1496810609608">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/css/swatch-ands-green.css" timestamp="1496706961445">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="4" />
         <mark key="^" line="8" column="318" />
         <mark key="." line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" timestamp="1496810996796">
+        <mark key="'" line="5" column="6239" />
       </file>
       <file name="$USER_HOME$/dev/ands/registry/.env" timestamp="1496796694668">
         <mark key="'" line="33" column="21" />
@@ -39,11 +45,11 @@
         <mark key="." line="89" column="135" />
         <mark key="^" line="89" column="135" />
       </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" timestamp="1496799436036">
-        <mark key="'" line="32" column="71" />
-        <mark key="[" line="123" column="9" />
-        <mark key="]" line="129" column="8" />
-        <mark key="." line="129" column="8" />
+      <file name="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" timestamp="1496810487064">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="63" column="61" />
+        <mark key="." line="63" column="61" />
+        <mark key="^" line="63" column="61" />
       </file>
     </filemarks>
     <jumps>
@@ -77,52 +83,72 @@
       <jump line="33" column="21" filename="$USER_HOME$/dev/ands/registry/.env" />
       <jump line="118" column="15" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
       <jump line="29" column="71" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="105" column="0" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="107" column="0" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="113" column="0" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="124" column="0" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="129" column="0" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="132" column="0" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="138" column="0" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="137" column="0" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="22" column="58" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="56" column="32" filename="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" />
+      <jump line="0" column="1423" filename="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" />
+      <jump line="6" column="24481" filename="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" />
+      <jump line="7" column="29091" filename="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" />
+      <jump line="8" column="9256" filename="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" />
+      <jump line="2" column="18915" filename="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" />
+      <jump line="5" column="6239" filename="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKCR0eXBlID09ICJwdWJsaWNhdGlvbnMiKSB7CiAgICAgICAgICAgIC8vIGlkZW50aWZ5IHRoZSBkdXBsaWNhdGUgYW5kIG1lcmdlCiAgICAgICAgICAgICRkb2NzID0gJHJlc3VsdFsnZG9jcyddOwoKICAgICAgICAgICAgJG9yaWdpbmFsID0gY29sbGVjdCgkZG9jcyktPmZpbHRlcihmdW5jdGlvbiAoJGl0ZW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiAkaXRlbVsnZnJvbV9pZCddID09ICR0aGlzLT5yby0+aWQ7CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgJGZpbmFsID0gJG9yaWdpbmFsOwogICAgICAgICAgICAkcmVzdWx0Wydkb2NzJ10gPSAkZmluYWwtPnZhbHVlcygpOwogICAgICAgICAgICByZXR1cm4gJHJlc3VsdDsKCiAgICAgICAgICAgICRleHRyYSA9IGNvbGxlY3QoJGRvY3MpLT5maWx0ZXIoZnVuY3Rpb24gKCRpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ2Zyb21faWQnXSAhPSAkdGhpcy0+cm8tPmlkOwogICAgICAgICAgICB9KTsKCiAgICAgICAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text>to_identifier</text>
       </register>
       <register name="/" type="4">
-        <text>DB_HOST</text>
+        <text>&quot;scroll&quot;</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKCR0eXBlID09ICJwdWJsaWNhdGlvbnMiKSB7CiAgICAgICAgICAgIC8vIGlkZW50aWZ5IHRoZSBkdXBsaWNhdGUgYW5kIG1lcmdlCiAgICAgICAgICAgICRkb2NzID0gJHJlc3VsdFsnZG9jcyddOwoKICAgICAgICAgICAgJG9yaWdpbmFsID0gY29sbGVjdCgkZG9jcyktPmZpbHRlcihmdW5jdGlvbiAoJGl0ZW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiAkaXRlbVsnZnJvbV9pZCddID09ICR0aGlzLT5yby0+aWQ7CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgJGZpbmFsID0gJG9yaWdpbmFsOwogICAgICAgICAgICAkcmVzdWx0Wydkb2NzJ10gPSAkZmluYWwtPnZhbHVlcygpOwogICAgICAgICAgICByZXR1cm4gJHJlc3VsdDsKCiAgICAgICAgICAgICRleHRyYSA9IGNvbGxlY3QoJGRvY3MpLT5maWx0ZXIoZnVuY3Rpb24gKCRpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ2Zyb21faWQnXSAhPSAkdGhpcy0+cm8tPmlkOwogICAgICAgICAgICB9KTsKCiAgICAgICAgfQ==</text>
+      <register name="0" type="4">
+        <text>$duplicateRelationships</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGlkUXVlcnkgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZHVwbGljYXRlUmVsYXRpb25zaGlwcyk7CiAgICB9CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBzZWFyY2hCeUlkKCR0eXBlLCAkaWRRdWVyeSkKICAgIHsKICAgICAgICAgJGNpID0mIGdldF9pbnN0YW5jZSgpOwogICAgICAgICRjaS0+bG9hZC0+bGlicmFyeSgnc29scicpOwoKICAgICAgICBpZiAoJGlkUXVlcnkgPT09IG51bGwpIHsKICAgICAgICAgICAgJGlkUXVlcnkgPSAkdGhpcy0+cm8tPmlkOwogICAgICAgIH0KICAgICAgICAkY2ktPnNvbHIKICAgICAgICAgICAgLT5pbml0KCkKICAgICAgICAgICAgLT5zZXRDb3JlKCdyZWxhdGlvbnMnKQogICAgICAgICAgICAtPnNldE9wdCgncm93cycsIDUpCiAgICAgICAgICAgIC0+c2V0T3B0KCdmcScsICIrZnJvbV9pZDooeyRpZFF1ZXJ5fSkiKTsKICAgICAgICBzd2l0Y2ggKCR0eXBlKSB7CiAgICAgICAgICAgIGNhc2UgImRhdGEiOgogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczpjb2xsZWN0aW9uJyk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAicHJvZ3JhbXMiOgogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczphY3Rpdml0eScpOwogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b190eXBlOnByb2dyYW0nKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJncmFudHNfcHJvamVjdHMiOgogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczphY3Rpdml0eScpOwogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJy10b190eXBlOnByb2dyYW0nKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJzZXJ2aWNlcyI6CiAgICAgICAgICAgICAgICAkY2ktPnNvbHItPnNldE9wdCgnZnEnLCAnK3RvX2NsYXNzOnNlcnZpY2UnKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJyZXNlYXJjaGVycyI6CiAgICAgICAgICAgICAgICAkY2ktPnNvbHItPnNldE9wdCgnZnEnLAogICAgICAgICAgICAgICAgICAgICcrdG9fY2xhc3M6cGFydHkgT1IgcmVsYXRpb25fb3JpZ2luOklERU5USUZJRVInKTsKICAgICAgICAgICAgICAgICRjaS0+c29sci0+c2V0T3B0KCdmcScsICctdG9fdHlwZTpncm91cCcpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgIm9yZ2FuaXNhdGlvbnMiOgogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczpwYXJ0eScpOwogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b190eXBlOmdyb3VwJyk7CiAgICAgICAgICAgICAgICAvL2V4Y2x1ZGUgcmVsYXRpb24gd2l0aCBpZGVudGlmaWVyIChiZWNhdXNlIHRoZXkgZmFsbCBpbnRvIHJlc2VhcmNoZXJzIGNhdGVnb3J5KQogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJy1yZWxhdGlvbl9pZGVudGlmaWVyX2lkZW50aWZpZXI6KicpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgInB1YmxpY2F0aW9ucyI6CiAgICAgICAgICAgICAgICAkY2ktPnNvbHItPnNldE9wdCgnZnEnLCAnK3RvX2NsYXNzOnB1YmxpY2F0aW9uJyk7CiAgICAgICAgICAgICAgICAkY2ktPnNvbHItPnNldE9wdCgncm93cycsIDk5OSk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAid2Vic2l0ZXMiOgogICAgICAgICAgICAgICAgJGNpLT5zb2xyLT5zZXRPcHQoJ2ZxJywgJyt0b19jbGFzczp3ZWJzaXRlJyk7CiAgICAgICAgICAgICAgICAkY2ktPnNvbHItPnNldE9wdCgncm93cycsIDk5OSk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIC8vIHJldHVybnMgMCBmb3IgYW55IG90aGVyIGNhc2UKICAgICAgICAgICAgICAgICRjaS0+c29sci0+c2V0T3B0KCdmcScsICcrdG9fY2xhc3M6VU5LTk9XTicpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQoKICAgICAgICAkc29sclJlc3VsdCA9ICRjaS0+c29sci0+ZXhlY3V0ZVNlYXJjaCh0cnVlKTsKCiAgICAgICAgLy8gZGVmYXVsdCByZXN1bHQKICAgICAgICAkcmVzdWx0ID0gYXJyYXkoCiAgICAgICAgICAgICdjb3VudCcgPT4gMCwKICAgICAgICAgICAgJ2RvY3MnID0+IFtdCiAgICAgICAgKTsKCiAgICAgICAgaWYgKCRzb2xyUmVzdWx0ICYmCiAgICAgICAgICAgIGFycmF5X2tleV9leGlzdHMoJ3Jlc3BvbnNlJywKICAgICAgICAgICAgICAgICRzb2xyUmVzdWx0KSAmJiAkc29sclJlc3VsdFsncmVzcG9uc2UnXVsnbnVtRm91bmQnXSA+IDAKICAgICAgICApIHsKICAgICAgICAgICAgJHJlc3VsdFsnY291bnQnXSA9ICRzb2xyUmVzdWx0WydyZXNwb25zZSddWydudW1Gb3VuZCddOwogICAgICAgICAgICBmb3JlYWNoICgkc29sclJlc3VsdFsncmVzcG9uc2UnXVsnZG9jcyddIGFzICRkb2MpIHsKICAgICAgICAgICAgICAgICRkYXRhID0gJGRvYzsKICAgICAgICAgICAgICAgICRyZXN1bHRbJ2RvY3MnXVtdID0gJGRhdGE7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIC8qKgogICAgICAgICAqIEZpbmQgYWxsIHJlbGF0aW9ucyBmb3IgdGhpcyBvYmplY3QKICAgICAgICAgKiBGaW5kIGFueSBleHRyYSByZWxhdGlvbnMgdGhhdCBnb2VzIHRvIGRpZmZlcmVudCBvYmplY3RzIGZyb20gbXkgZHVwbGljYXRlcwogICAgICAgICAqLwoKICAgICAgICByZXR1cm4gJHJlc3VsdDsKICAgIH0KCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpbmFsLT52YWx1ZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZHVwbGljYXRlUmVsYXRpb25zaGlwcyk7CiAgICB9CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBzZWFyY2hCeUlkKCR0eXBlLCAkaWRRdWVyeSkKICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGV4dHJhLT5lYWNoKGZ1bmN0aW9uICgkaXRlbSkgdXNlICgkZmluYWwpewogICAgICAgICAgICAgICAgLy8gb3JpZ2luYWwKICAgICAgICAgICAgICAgICRvcmlnaW5hbCA9ICRmaW5hbC0+Zmlyc3QoZnVuY3Rpb24oJCkpCiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGlmICgkdHlwZSA9PSAicHVibGljYXRpb25zIikgewogICAgICAgICAgICAvLyBpZGVudGlmeSB0aGUgZHVwbGljYXRlIGFuZCBtZXJnZQogICAgICAgICAgICAkZG9jcyA9ICRyZXN1bHRbJ2RvY3MnXTsKCiAgICAgICAgICAgICRvcmlnaW5hbCA9IGNvbGxlY3QoJGRvY3MpLT5maWx0ZXIoZnVuY3Rpb24gKCRpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ2Zyb21faWQnXSA9PSAkdGhpcy0+cm8tPmlkOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICRmaW5hbCA9ICRvcmlnaW5hbDsKCiAgICAgICAgICAgICRleHRyYSA9IGNvbGxlY3QoJGRvY3MpLT5maWx0ZXIoZnVuY3Rpb24gKCRpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ2Zyb21faWQnXSAhPSAkdGhpcy0+cm8tPmlkOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICRleHRyYS0+ZWFjaChmdW5jdGlvbiAoJGl0ZW0pIHVzZSAoJGZpbmFsKXsKICAgICAgICAgICAgICAgIC8vIG9yaWdpbmFsCiAgICAgICAgICAgICAgICAkb3JpZ2luYWwgPSAkZmluYWwtPmZpcnN0KGZ1bmN0aW9uKCQpKQogICAgICAgICAgICB9KTsKICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGR1cGxpY2F0ZVJlbGF0aW9uc2hpcHMpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JG9yaWdpbmFsID0gJGZpbmFsLT5maXJzdChmdW5jdGlvbigkKSB7CiAgICAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ3RvX2lkJ10gPT0gJAogICAgICAgICAgICAgICAgfSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHR5cGUgPT0gInB1YmxpY2F0aW9ucyIpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpdGVtKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGV4dHJhKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZHVwbGljYXRlUmVsYXRpb25zaGlwcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdFtkZCdkb2NzJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaWRzID0gJGR1cGxpY2F0ZXM7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>DB_HOST</last-search>
+      <last-search>&quot;scroll&quot;</last-search>
       <last-offset />
-      <last-pattern>DB_HOST</last-pattern>
+      <last-pattern>&quot;scroll&quot;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -134,6 +160,10 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>Arial</entry>
         <entry>DB_HOST</entry>
+        <entry encoding="base64">XDxpZFF1ZXJ5XD4=</entry>
+        <entry>mousewheel</entry>
+        <entry>scroll</entry>
+        <entry>&quot;scroll&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4xMDU=</entry>
@@ -141,6 +171,8 @@
         <entry>90</entry>
         <entry encoding="base64">JzwsJz4xMDQ=</entry>
         <entry>w</entry>
+        <entry>64</entry>
+        <entry>x</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
