@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/ands/registry/applications/portal/registry_object/controllers/registry_object.php" timestamp="1496708474904">
@@ -8,7 +8,10 @@
         <mark key="]" line="371" column="0" />
         <mark key="." line="371" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496810609608">
+      <file name="/Dummy.txt" timestamp="1497840326764">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1497840094682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/suggest.php" timestamp="1497834146017">
@@ -17,6 +20,12 @@
         <mark key="." line="154" column="23" />
         <mark key="^" line="154" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RIFCS/TitleProvider.php" timestamp="1497841596793">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Commands/Script/ProcessGroups.php" timestamp="1497840215966" />
       <file name="$USER_HOME$/dev/ands/registry/.env" timestamp="1497833777116">
         <mark key="'" line="33" column="21" />
         <mark key="[" line="16" column="0" />
@@ -30,6 +39,12 @@
         <mark key="]" line="89" column="135" />
         <mark key="." line="89" column="135" />
         <mark key="^" line="89" column="135" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Commands/Script/ProcessCoreMetadata.php" timestamp="1497840227577">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="6" column="79" />
+        <mark key="^" line="6" column="79" />
+        <mark key="." line="6" column="79" />
       </file>
       <file name="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" timestamp="1496810487064">
         <mark key="[" line="63" column="21" />
@@ -48,14 +63,24 @@
         <mark key="]" line="0" column="311" />
         <mark key="." line="0" column="311" />
       </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/css/swatch-ands-green.css" timestamp="1496706961445">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="4" />
-        <mark key="^" line="8" column="318" />
-        <mark key="." line="12" column="4" />
+      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RIFCS/CoreMetadataProvider.php" timestamp="1497841011635">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/api/task/models/ImportSubTask/ProcessCoreMetadata.php" timestamp="1497840622603">
+        <mark key="[" line="45" column="50" />
+        <mark key="]" line="45" column="55" />
+        <mark key="^" line="45" column="55" />
+        <mark key="." line="45" column="55" />
       </file>
       <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Commands/SyncRecordWorkerRedisCommand.php" timestamp="1497836917263" />
+      <file name="$USER_HOME$/dev/ands/registry/tests/ANDS/Registry/Providers/RIFCS/TitleProviderTest.php" timestamp="1497841729173">
+        <mark key="[" line="194" column="29" />
+        <mark key="]" line="196" column="25" />
+        <mark key="^" line="196" column="25" />
+        <mark key="." line="196" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/registry_object/contents/related-parties.blade.php" timestamp="1496902927156">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -63,6 +88,12 @@
       </file>
       <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" timestamp="1496810996796">
         <mark key="'" line="5" column="6239" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Commands/RegistryObject/RegistryObjectProcessCommand.php" timestamp="1497840328327">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="28" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -115,65 +146,46 @@
       <jump line="5" column="6239" filename="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>docs</text>
+      <register name="&quot;" type="8">
+        <text>Thing
+Thing</text>
       </register>
       <register name="-" type="4">
-        <text>docs</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>&quot;scroll&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ie3sgJHJlbGF0ZWRbJ3Jlc2VhcmNoZXJzJ11bJ3NlYXJjaFVybCddIH19Ij5WaWV3IGFsbCB7eyAkcmVsYXRlZFsncmVzZWFyY2hlcnMnXVsnY291bnQnXSB9fSByZWxhdGVkIHJlc2VhcmNoZXJzPC9hPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">LyoqIEB0ZXN0ICoqLwogICAgcHVibGljIGZ1bmN0aW9uIGl0X3Nob3VsZF9maW5kX2ZpcnN0X25hbWVfcGFydF93aXRob3V0X2F0dHJfd2l0aG91dF9wcmltYXJ5KCkKICAgIHsKICAgICAgICAkcmF3TmFtZXMgPSBbCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICd2YWx1ZScgPT4gWwogICAgICAgICAgICAgICAgICAgICdUaGluZycsCiAgICAgICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICAgICAnQGF0dHJpYnV0ZXMnID0+IFsndHlwZScgPT4gJ2Z1bGwnXSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3ZhbHVlJyA9PiAnRmlzaCcKICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0KICAgICAgICBdOwoKICAgICAgICAkdGl0bGVzID0gVGl0bGVQcm92aWRlcjo6Z2V0VGl0bGVzRnJvbVJhdygkcmF3TmFtZXMsICdjb2xsZWN0aW9uJyk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygnVGhpbmcnLCAkdGl0bGVzWydsaXN0VGl0bGUnXSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygnVGhpbmcnLCAkdGl0bGVzWydkaXNwbGF5VGl0bGUnXSk7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7CiAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdFsnY291bnQnXSA9ICRzb2xyUmVzdWx0WydyZXNwb25zZSddWydudW1Gb3VuZCddOwo=</text>
+      <register name="1" type="8">
+        <text>Thing
+Thing</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnVGhpbmcnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRkb2MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGQoJHNvbHJSZXN1bHQpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAnQGF0dHJpYnV0ZXMnID0+IFsKICAgICAgICAgICAgICAgICAgICAndHlwZScgPT4gJ3ByaW1hcnknCiAgICAgICAgICAgICAgICBd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQoJHNvbHJSZXN1bHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZGlzcGxheVRpdGxlKTsK</text>
       </register>
-      <register name="7" type="8">
-        <text>#
-#
-#
-#
-#</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRmaXJzdE5hbWVQYXJ0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJ7eyAkcmVsYXRlZFsncmVzZWFyY2hlcnMnXVsnc2VhcmNoVXJsJ10gfX0iPlZpZXcgYWxsIHt7ICRyZWxhdGVkWydyZXNlYXJjaGVycyddWydjb3VudCddIH19IHJlbGF0ZWQgcmVzZWFyY2hlcnM8L2E+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>#
-#
-#
-#
-#</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -208,6 +220,7 @@
         <entry>x</entry>
         <entry>17</entry>
         <entry>39</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
