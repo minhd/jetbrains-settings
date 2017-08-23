@@ -4,12 +4,6 @@
       <MessDetectorConfiguration />
     </phpmd_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/bin/php" id="5713ad37-c3f9-431b-8f0d-92bfa3bf520a" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/bin/php" id="558c5d37-4782-47ee-b924-5f06c84aa379" name="Mac PHP" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Mac PHP">
