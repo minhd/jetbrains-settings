@@ -3,59 +3,22 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/ands/registry/applications/portal/registry_object/controllers/registry_object.php" timestamp="1496708474904">
-        <mark key="[" line="371" column="0" />
-        <mark key="]" line="371" column="0" />
-        <mark key="." line="371" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1497840326764">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1497840094682">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/suggest.php" timestamp="1497834146017">
         <mark key="[" line="154" column="25" />
         <mark key="]" line="154" column="23" />
         <mark key="." line="154" column="23" />
         <mark key="^" line="154" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RIFCS/TitleProvider.php" timestamp="1497841596793">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="/Dummy.txt" timestamp="1497840326764">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Commands/Script/ProcessGroups.php" timestamp="1497840215966" />
-      <file name="$USER_HOME$/dev/ands/registry/.env" timestamp="1497833777116">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" timestamp="1496810996796">
+        <mark key="'" line="5" column="6239" />
       </file>
-      <file name="$USER_HOME$/dev/ands/registry/engine/libraries/Solr.php" timestamp="1497322952928" />
-      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" timestamp="1496714902184">
-        <mark key="[" line="88" column="35" />
-        <mark key="]" line="89" column="135" />
-        <mark key="." line="89" column="135" />
-        <mark key="^" line="89" column="135" />
-      </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Commands/Script/ProcessCoreMetadata.php" timestamp="1497840227577">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="6" column="79" />
-        <mark key="^" line="6" column="79" />
-        <mark key="." line="6" column="79" />
-      </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" timestamp="1496810487064">
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="63" column="61" />
-        <mark key="." line="63" column="61" />
-        <mark key="^" line="63" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/css/fonts.css" timestamp="1496796483950">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/registry_object/contents/related-parties.blade.php" timestamp="1496902927156">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/css/fonts.min.css" timestamp="1496796446749">
         <mark key="'" line="0" column="79" />
@@ -68,32 +31,77 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Commands/RegistryObject/RegistryObjectProcessCommand.php" timestamp="1497840328327">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="28" column="39" />
+      </file>
+      <file name="/a.dummy" timestamp="1497840094682">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RelationshipProvider.php" timestamp="1496714902184">
+        <mark key="[" line="88" column="35" />
+        <mark key="]" line="89" column="135" />
+        <mark key="." line="89" column="135" />
+        <mark key="^" line="89" column="135" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/css/fonts.css" timestamp="1496796483950">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/productivity-toolkit/.gitignore" timestamp="1511346097830">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Commands/Script/ProcessCoreMetadata.php" timestamp="1497840227577">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="6" column="79" />
+        <mark key="^" line="6" column="79" />
+        <mark key="." line="6" column="79" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/applications/portal/registry_object/controllers/registry_object.php" timestamp="1496708474904">
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ands/registry/.env" timestamp="1497833777116">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ands/registry/applications/api/task/models/ImportSubTask/ProcessCoreMetadata.php" timestamp="1497840622603">
         <mark key="[" line="45" column="50" />
         <mark key="]" line="45" column="55" />
         <mark key="^" line="45" column="55" />
         <mark key="." line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Commands/SyncRecordWorkerRedisCommand.php" timestamp="1497836917263" />
       <file name="$USER_HOME$/dev/ands/registry/tests/ANDS/Registry/Providers/RIFCS/TitleProviderTest.php" timestamp="1497841729173">
         <mark key="[" line="194" column="29" />
         <mark key="]" line="196" column="25" />
         <mark key="^" line="196" column="25" />
         <mark key="." line="196" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/registry_object/contents/related-parties.blade.php" timestamp="1496902927156">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/dev/productivity-toolkit/resources/views/welcome.blade.php" timestamp="1511346146514">
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/portal/templates/ands-green/assets/js/packages.min.js" timestamp="1496810996796">
-        <mark key="'" line="5" column="6239" />
+      <file name="$USER_HOME$/dev/ands/registry/applications/registry/services/method_handlers/registry_object_handlers/relationships.php" timestamp="1496810487064">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="63" column="61" />
+        <mark key="." line="63" column="61" />
+        <mark key="^" line="63" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Commands/RegistryObject/RegistryObjectProcessCommand.php" timestamp="1497840328327">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="28" column="39" />
+      <file name="$USER_HOME$/dev/ands/registry/applications/ANDS/Registry/Providers/RIFCS/TitleProvider.php" timestamp="1497841596793">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -188,7 +196,7 @@ Thing</text>
         <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -217,11 +225,11 @@ Thing</text>
         <entry>90</entry>
         <entry encoding="base64">JzwsJz4xMDQ=</entry>
         <entry>64</entry>
-        <entry>x</entry>
         <entry>17</entry>
         <entry>39</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -232,6 +240,9 @@ Thing</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
