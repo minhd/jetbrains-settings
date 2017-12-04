@@ -35,7 +35,9 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
-  <action id="GotoSymbol" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="shift alt e" />
@@ -53,6 +55,7 @@
   <action id="PreviousOccurence" />
   <action id="Refresh" />
   <action id="Replace" />
+  <action id="ReplaceInPath" />
   <action id="Rerun" />
   <action id="RunJsbtTask">
     <keyboard-shortcut first-keystroke="alt f11" />
