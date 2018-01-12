@@ -1,5 +1,4 @@
-<code_scheme name="MStyle">
-  <option name="RIGHT_MARGIN" value="80" />
+<code_scheme name="MStyle" version="173">
   <PHPCodeStyleSettings>
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
