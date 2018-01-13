@@ -1,12 +1,15 @@
 <keymap version="1" name="MinhPC" parent="Rider">
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="GotoChangedFile" />
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="GotoFile">
@@ -20,6 +23,9 @@
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="Replace" />
+  <action id="RiderNewSolution">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="RiderUnitTestRunContextTwAction">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
