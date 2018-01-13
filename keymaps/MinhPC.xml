@@ -1,9 +1,13 @@
 <keymap version="1" name="MinhPC" parent="Rider">
   <action id="ChangesView.Diff" />
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
@@ -28,6 +32,10 @@
   </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Replace" />
   <action id="RiderNewSolution">
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -42,5 +50,6 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="Vcs.UpdateProject" />
   <action id="openAssertEqualsDiff" />
 </keymap>
