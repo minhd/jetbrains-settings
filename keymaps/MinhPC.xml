@@ -5,8 +5,12 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="Diff.ShowDiff" />
-  <action id="EditorDuplicate" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
@@ -50,6 +54,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
   <action id="openAssertEqualsDiff" />
 </keymap>
