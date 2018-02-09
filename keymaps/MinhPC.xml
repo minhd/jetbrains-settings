@@ -1,4 +1,4 @@
-<keymap version="1" name="MinhPC" parent="Rider">
+<keymap version="1" name="MinhPC">
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
