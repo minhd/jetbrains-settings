@@ -18,6 +18,9 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorTab">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
