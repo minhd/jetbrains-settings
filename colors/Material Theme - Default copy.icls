@@ -1391,7 +1391,6 @@
     </option>
     <option name="XPATH.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="a7dbd8" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1408,7 +1407,7 @@
     </option>
     <option name="XPATH.XPATH_NAME">
       <value>
-        <option name="FOREGROUND" value="1a1f29" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XPATH.XPATH_VARIABLE">
