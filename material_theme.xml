@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
+    <option name="version" value="2.4.1.3-2018.1" />
     <option name="accentColor" value="84ffff" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="50" />
+    <option name="userId" value="38ab412b:164f2cbf10a:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
