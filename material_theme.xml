@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.1.5-2018.1" />
+    <option name="version" value="2.4.1.3-2018.1" />
     <option name="accentColor" value="84ffff" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="50" />
