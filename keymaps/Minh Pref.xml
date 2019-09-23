@@ -1,5 +1,8 @@
 <keymap version="1" name="Minh Pref" parent="Mac OS X 10.5+">
-  <action id="ActivateRunToolWindow" />
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 4" />
