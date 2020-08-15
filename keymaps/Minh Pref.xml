@@ -7,15 +7,36 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
+  <action id="ChangesView.Move" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.ShowDiff" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="Diff.UpdatedFiles" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -30,7 +51,6 @@
     <keyboard-shortcut first-keystroke="meta alt u" />
   </action>
   <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoFile">
@@ -51,12 +71,21 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
+  <action id="NextEditorTab" />
   <action id="NextOccurence" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
   <action id="ParameterInfo" />
+  <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="RestoreDefaultLayout" />
   <action id="RunJsbtTask">
     <keyboard-shortcut first-keystroke="alt f11" />
     <keyboard-shortcut first-keystroke="meta g" />
@@ -88,7 +117,9 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="UsageView.Include" />
   <action id="UsageView.Rerun" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="openAssertEqualsDiff" />
