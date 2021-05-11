@@ -2,6 +2,8 @@
   <component name="UISettings">
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
-    <option name="OPEN_TABS_AT_THE_END" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1000" />
+    <option name="SHOW_CLOSE_BUTTON" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
   </component>
 </application>
