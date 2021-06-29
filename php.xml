@@ -1,10 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="766519df-7e2d-4885-af67-bca3f50ac71c" name="/usr/bin/php" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
@@ -14,7 +8,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="/usr/bin/php">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.1.23">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.11">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>
@@ -75,21 +69,21 @@
             <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
-            <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
       </interpreter>
       <interpreter name="PHP brew">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.7/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.7/bin/php" path_separator=":" version="7.3.7">
-          <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.10/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.10/bin/php" path_separator=":" version="7.4.10">
+          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.7/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.10/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
             <extension name="Core" />
+            <extension name="FFI" />
             <extension name="PDO" />
             <extension name="PDO_ODBC" />
             <extension name="Phar" />
@@ -146,7 +140,6 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
