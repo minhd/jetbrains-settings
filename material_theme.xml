@@ -1,13 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="contrastMode" value="true" />
+    <option name="premium" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="50" />
     <option name="accentColor" value="009688" />
-    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="38ab412b:164f2cbf10a:-7fff" />
     <option name="version" value="5.5.0" />
   </component>
