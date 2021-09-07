@@ -18,6 +18,10 @@
           <option name="url" value="git@github.com:au-research/SeleniumTestSuite.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ands.org.au" />
+          <option name="userName" value="mnguyen" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev" />
